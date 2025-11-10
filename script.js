@@ -1193,9 +1193,9 @@ async function performSearch() {
                 mainEl.appendChild(searchResultsSection);
             }
             
-            // 填充搜索结果标题
+            // 填充搜索结果标题，显示加载状态
             searchResultsSection.innerHTML = `
-                <h2>🔍 搜索结果: "${searchTerm}" (0 条)</h2>
+                <h2>🔍 正在搜索: "${searchTerm}" <i class="fas fa-spinner fa-spin"></i></h2>
             `;
             
             // 创建结果网格
@@ -1233,9 +1233,9 @@ async function performSearch() {
                 mainEl.appendChild(searchResultsSection);
             }
             
-            // 填充搜索结果标题
+            // 填充搜索结果标题，显示加载状态
             searchResultsSection.innerHTML = `
-                <h2>🔍 搜索结果: "${searchTerm}" (0 条)</h2>
+                <h2>🔍 正在搜索: "${searchTerm}" <i class="fas fa-spinner fa-spin"></i></h2>
             `;
             
             // 创建结果网格
@@ -1334,7 +1334,7 @@ async function performSearch() {
                 });
                 
                 // 更新搜索标题显示结果数量
-                searchResultsSection.querySelector('h2').textContent = 
+                searchResultsSection.querySelector('h2').innerHTML = 
                     `🔍 搜索结果: "${searchTerm}" (${totalResults} 条)`;
                 
                 // 更新加载更多按钮状态
