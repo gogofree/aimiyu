@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>谜语 - 谜语大全</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    </head>
+<body>
+    <!-- 导航栏 -->
+    <header>
+        <div class="container">
+            <nav class="navbar">
+                <div class="logo">
+                    <h1>谜语大全</h1>
+                </div>
+                <div class="nav-links">
+                    <a href="index.html">首页</a>
+                    <a href="categories.html" class="active">分类</a>
+                </div>
+                <div class="search-container">
+                    <input type="text" id="search-input" placeholder="搜索谜语...">
+                    <button id="search-btn"><i class="fas fa-search"></i></button>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- 主内容区 -->
+    <main class="container">
+        <!-- 分类头部 -->
+        <div class="category-header">
+            <!--<h2 id="category-title">谜语分类</h2>-->
+            <div class="category-filter">
+                <button class="filter-btn">动物</button>
+                <button class="filter-btn">物品</button>
+                <button class="filter-btn">字谜</button>
+                <button class="filter-btn">植物</button>
+                <button class="filter-btn">自然</button>
+                <button class="filter-btn">脑筋急转弯</button>
+                <button class="filter-btn">食物</button>
+                <button class="filter-btn">建筑</button>
+                <button class="filter-btn">电器</button>
+                <button class="filter-btn">鼠</button>
+                <button class="filter-btn">牛</button>
+                <button class="filter-btn">虎</button>
+                <button class="filter-btn">兔</button>
+                <button class="filter-btn">龙</button>
+                <button class="filter-btn">蛇</button>
+                <button class="filter-btn">马</button>
+                <button class="filter-btn">羊</button>
+                <button class="filter-btn">猴</button>
+                <button class="filter-btn">鸡</button>
+                <button class="filter-btn">狗</button>
+                <button class="filter-btn">猪</button>
+                <button class="filter-btn">春</button>
+                <button class="filter-btn">夏</button>
+                <button class="filter-btn">秋</button>
+                <button class="filter-btn">冬</button>
+				<button class="filter-btn">山</button>
+            </div>
+        </div>
+
+        <!-- 分类谜语列表 -->
+    <div class="riddles-container">
+        <div class="riddles-grid" id="category-riddles-container">
+            <p>请选择上方分类查看谜语</p>
+        </div>
+    </div>
+    </main>
+
+    <!-- 页脚 -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 谜语大全 - 让生活充满智慧与乐趣</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

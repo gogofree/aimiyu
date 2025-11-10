@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>谜语大全_谜语大全及答案都在爱谜语</title>
+	<meta name="keywords" content="谜语,谜语大全,谜语大全及答案,猜谜语" />
+	<meta name="description" content="谜语,谜语大全,谜语大全及答案，你想找的谜语都在爱谜语网。" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- 导航栏 -->
+    <header>
+        <div class="container">
+            <nav class="navbar">
+                <div class="logo">
+                    <h1>谜语大全</h1>
+                </div>
+                <div class="nav-links">
+                    <a href="index.html" class="active">首页</a>
+                    <a href="categories.html">分类</a>
+                </div>
+                <div class="search-container">
+                    <input type="text" id="search-input" placeholder="搜索谜语...">
+                    <button id="search-btn"><i class="fas fa-search"></i></button>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- 主内容区 -->
+    <main class="container">
+        <!-- 随机推荐板块 -->
+        <section class="random-section">
+            <h2>🎲 随机谜语</h2>
+            <div class="random-card card">
+                <div class="riddle-content">
+                    <p id="random-riddle">正在加载谜语...</p>
+                    <div class="answer-container">
+                        <p id="random-answer" class="hidden">
+                            <span id="random-answer-content">点击显示答案</span>
+                        </p>
+                    </div>
+                </div>
+                <div class="action-buttons">
+                    <button id="show-answer-btn" class="btn-primary">显示答案</button>
+                    <button id="refresh-riddle-btn" class="btn-secondary">
+                        <i class="fas fa-sync-alt"></i> 换一个
+                    </button>
+                </div>
+            </div>
+        </section>
+
+        <!-- 热门谜语板块 -->
+        <section class="popular-section">
+            <h2>🔥 热门谜语</h2>
+            <div class="layout-controls">
+                <button id="single-column-btn" class="layout-btn active">
+                    <i class="fas fa-list"></i> 单列显示
+                </button>
+                <button id="grid-view-btn" class="layout-btn">
+                    <i class="fas fa-th-large"></i> 三列显示
+                </button>
+            </div>
+            <div class="riddles-grid" id="popular-riddles">
+                <!-- 热门谜语卡片将通过JavaScript动态生成 -->
+                <p>正在加载热门谜语...</p>
+            </div>
+        </section>
+
+        <!-- 分类标签板块 -->
+        <section class="categories-section">
+            <h2>📂 谜语分类</h2>
+            <div class="categories-grid">
+                <a href="categories.html?category=动物" class="category-card">
+                    <i class="fas fa-dog"></i>
+                    <span>动物谜语</span>
+                </a>
+                <a href="categories.html?category=物品" class="category-card">
+                    <i class="fas fa-couch"></i>
+                    <span>物品谜语</span>
+                </a>
+                <a href="categories.html?category=字谜" class="category-card">
+                    <i class="fas fa-font"></i>
+                    <span>字谜</span>
+                </a>
+                <a href="categories.html?category=植物" class="category-card">
+                    <i class="fas fa-leaf"></i>
+                    <span>植物谜语</span>
+                </a>
+                <a href="categories.html?category=自然" class="category-card">
+                    <i class="fas fa-mountain"></i>
+                    <span>自然现象</span>
+                </a>
+                <a href="categories.html?category=脑筋急转弯" class="category-card">
+                    <i class="fas fa-brain"></i>
+                    <span>脑筋急转弯</span>
+                </a>
+            </div>
+        </section>
+    </main>
+
+    <!-- 页脚 -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 谜语大全 - 让生活充满智慧与乐趣</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

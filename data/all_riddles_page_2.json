@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "riddle_00201",
+    "question": "有山不见石和崖，有地不见土与沙，江河湖海不通船，外出旅行全靠它。",
+    "answer": "地图",
+    "category": "物品",
+    "popularity": 7345
+  },
+  {
+    "id": "riddle_00202",
+    "question": "不是西瓜不是蛋，用手一推就会转，不要看它个儿小，能载海洋和高山。",
+    "answer": "地球仪",
+    "category": "文具",
+    "popularity": 6789
+  },
+  {
+    "id": "riddle_00203",
+    "question": "一物生来真新鲜，铁腿细长脚儿尖，一腿走路一腿站，脚印个个圆又圆。",
+    "answer": "圆规",
+    "category": "文具",
+    "popularity": 6123
+  },
+  {
+    "id": "riddle_00204",
+    "question": "大哥说话先脱帽，二哥说话先挨刀，三哥说话先喝水，四哥说话雪花飘。",
+    "answer": "毛笔，铅笔，钢笔，粉笔",
+    "category": "文具",
+    "popularity": 8234
+  },
+  {
+    "id": "riddle_00205",
+    "question": "金色辫子长又长，不分男女盘头上，不用梳来不用洗，只等晴天晒太阳。",
+    "answer": "草帽",
+    "category": "物品",
+    "popularity": 4876
+  },
+  {
+    "id": "riddle_00206",
+    "question": "有朵花，人喜爱，有时闭来有时开，雨天开在大街上，花根就在手中栽。",
+    "answer": "雨伞",
+    "category": "物品",
+    "popularity": 7234
+  },
+  {
+    "id": "riddle_00207",
+    "question": "一根藤上结瓢瓜，生根结果在你家，年年看瓜瓜不长，夜夜看瓜瓜开花。",
+    "answer": "电灯",
+    "category": "电器",
+    "popularity": 6543
+  },
+  {
+    "id": "riddle_00208",
+    "question": "铁嘴唇，没长牙，嘴里衔块猪油渣，单等小偷上门来，大喊一声抓住他。",
+    "answer": "捕鼠夹",
+    "category": "工具",
+    "popularity": 4234
+  },
+  {
+    "id": "riddle_00209",
+    "question": "有眼无珠一光棍，常常走进闺秀门，见的是美女红颜，穿的是绫罗绸缎。",
+    "answer": "针",
+    "category": "物品",
+    "popularity": 5678
+  },
+  {
+    "id": "riddle_00210",
+    "question": "一只小铁猴，有嘴没有头，帮你讲卫生，咬脚又咬手。",
+    "answer": "指甲刀",
+    "category": "工具",
+    "popularity": 4987
+  },
+  {
+    "id": "riddle_00211",
+    "question": "说它小，它真小，像只皮球挺灵巧；说它大，它真大，陆地海洋全装下。",
+    "answer": "地球仪",
+    "category": "文具",
+    "popularity": 7123
+  },
+  {
+    "id": "riddle_00212",
+    "question": "有头没有尾，有角没有嘴，摇动角与头，全身都是水。",
+    "answer": "鱼",
+    "category": "动物",
+    "popularity": 7654
+  },
+  {
+    "id": "riddle_00213",
+    "question": "身穿绿衣裳，肚里水汪汪，生的儿子多，个个黑脸膛。",
+    "answer": "西瓜",
+    "category": "植物",
+    "popularity": 6987
+  },
+  {
+    "id": "riddle_00214",
+    "question": "一个小姑娘，生在水中央，身穿粉红衫，坐在绿船上。",
+    "answer": "荷花",
+    "category": "植物",
+    "popularity": 8234
+  },
+  {
+    "id": "riddle_00215",
+    "question": "白嫩小宝宝，洗澡吹泡泡，洗洗身体小，再洗不见了。",
+    "answer": "肥皂",
+    "category": "物品",
+    "popularity": 6789
+  },
+  {
+    "id": "riddle_00216",
+    "question": "身穿绿衣裳，肩扛两把刀，庄稼地里走，害虫吓得跑。",
+    "answer": "螳螂",
+    "category": "动物",
+    "popularity": 7345
+  },
+  {
+    "id": "riddle_00217",
+    "question": "说它是条牛，不会拉犁头，说它力气小，背着屋子走。",
+    "answer": "蜗牛",
+    "category": "动物",
+    "popularity": 8123
+  },
+  {
+    "id": "riddle_00218",
+    "question": "五个兄弟，住在一起，名字不同，高矮不齐。",
+    "answer": "手指",
+    "category": "人体",
+    "popularity": 9256
+  },
+  {
+    "id": "riddle_00219",
+    "question": "一个黑孩，从不开口，要是开口，掉出舌头。",
+    "answer": "瓜子",
+    "category": "食物",
+    "popularity": 6872
+  },
+  {
+    "id": "riddle_00220",
+    "question": "人脱衣服，它穿衣服，人脱帽子，它戴帽子。",
+    "answer": "衣帽架",
+    "category": "物品",
+    "popularity": 5432
+  },
+  {
+    "id": "riddle_00221",
+    "question": "屋子方方，有门没窗，屋外热烘，屋里冰霜。",
+    "answer": "冰箱",
+    "category": "电器",
+    "popularity": 8765
+  },
+  {
+    "id": "riddle_00222",
+    "question": "两只小口袋，天天随身带，要是少一个，就把人笑坏。",
+    "answer": "袜子",
+    "category": "物品",
+    "popularity": 7890
+  },
+  {
+    "id": "riddle_00223",
+    "question": "弟兄七八个，围着柱子坐，只要一分开，衣服就扯破。",
+    "answer": "蒜",
+    "category": "食物",
+    "popularity": 6543
+  },
+  {
+    "id": "riddle_00224",
+    "question": "独木造高楼，没瓦没砖头，人在水下走，水在人上流。",
+    "answer": "雨伞",
+    "category": "物品",
+    "popularity": 8124
+  },
+  {
+    "id": "riddle_00225",
+    "question": "身穿大皮袄，野草吃个饱，过了严冬天，献出一身毛。",
+    "answer": "绵羊",
+    "category": "动物",
+    "popularity": 7234
+  },
+  {
+    "id": "riddle_00226",
+    "question": "颜色白如雪，身子硬如铁，一日洗三遍，夜晚柜里歇。",
+    "answer": "碗",
+    "category": "物品",
+    "popularity": 6789
+  },
+  {
+    "id": "riddle_00227",
+    "question": "有面没有口，有脚没有手，虽有四只脚，自己不会走。",
+    "answer": "桌子",
+    "category": "物品",
+    "popularity": 7567
+  },
+  {
+    "id": "riddle_00228",
+    "question": "白娃娃，爬黑墙，越爬个儿越变小，再也没法往上长。",
+    "answer": "粉笔",
+    "category": "物品",
+    "popularity": 6234
+  },
+  {
+    "id": "riddle_00229",
+    "question": "身体细长，兄弟成双，光爱吃菜，不爱喝汤。",
+    "answer": "筷子",
+    "category": "物品",
+    "popularity": 8456
+  },
+  {
+    "id": "riddle_00230",
+    "question": "小黑人儿细又长，穿着木头花衣裳，画画写字它全会，就是不会把歌唱。",
+    "answer": "铅笔",
+    "category": "物品",
+    "popularity": 7123
+  },
+  {
+    "id": "riddle_00231",
+    "question": "一物三口，有腿无手，谁要没它，难见亲友。",
+    "answer": "裤子",
+    "category": "物品",
+    "popularity": 5987
+  },
+  {
+    "id": "riddle_00232",
+    "question": "又圆又扁肚里空，活动镜子在当中，大人小孩都爱它，每天向它鞠个躬。",
+    "answer": "脸盆",
+    "category": "物品",
+    "popularity": 5345
+  },
+  {
+    "id": "riddle_00233",
+    "question": "看看象块糕，不能用嘴咬，洗洗衣服洗洗手，生出好多白泡泡。",
+    "answer": "肥皂",
+    "category": "物品",
+    "popularity": 6231
+  },
+  {
+    "id": "riddle_00234",
+    "question": "我的身体细又长，头长白毛身上光，从来就爱讲卫生，天天嘴里走两趟。",
+    "answer": "牙刷",
+    "category": "物品",
+    "popularity": 7456
+  },
+  {
+    "id": "riddle_00235",
+    "question": "一个小儿郎，每天站桌上，肚里滚滚热，肚皮冰冰凉。",
+    "answer": "暖水瓶",
+    "category": "物品",
+    "popularity": 6784
+  },
+  {
+    "id": "riddle_00236",
+    "question": "大碗长着俩耳朵，比碗盛得多得多，不怕水，不怕火，爱在炉台上面坐。",
+    "answer": "锅",
+    "category": "物品",
+    "popularity": 6123
+  },
+  {
+    "id": "riddle_00237",
+    "question": "一根柱子好些梁，没有门窗没有墙，好象一座小亭子，用它挡雨遮太阳。",
+    "answer": "伞",
+    "category": "物品",
+    "popularity": 7568
+  },
+  {
+    "id": "riddle_00238",
+    "question": "个儿不算大，帮着人看家，身子用铁打，辫子门上挂。",
+    "answer": "锁",
+    "category": "物品",
+    "popularity": 6342
+  },
+  {
+    "id": "riddle_00239",
+    "question": "兄弟几个人，各进一道门，那个进错了，看了笑死人。",
+    "answer": "扣子",
+    "category": "物品",
+    "popularity": 5876
+  },
+  {
+    "id": "riddle_00240",
+    "question": "身细头尖鼻子大，一根线儿拴住它，帮助妈妈缝衣裳，帮助姐姐来绣花。",
+    "answer": "针",
+    "category": "物品",
+    "popularity": 6987
+  },
+  {
+    "id": "riddle_00241",
+    "question": "小铁柱儿胆不小，头戴玻璃平顶帽，一只眼睛亮闪闪，哪儿黑往哪儿瞧。",
+    "answer": "手电筒",
+    "category": "物品",
+    "popularity": 7234
+  },
+  {
+    "id": "riddle_00242",
+    "question": "溜溜圆，光闪闪，两根针，会动弹，一根长，一根短，嘀哒嘀哒转圈圈。",
+    "answer": "钟表",
+    "category": "物品",
+    "popularity": 7654
+  },
+  {
+    "id": "riddle_00243",
+    "question": "青色糕，红色糕，不能吃，不能咬，点心铺里买不到，要盖房子少不了。",
+    "answer": "砖",
+    "category": "物品",
+    "popularity": 5432
+  },
+  {
+    "id": "riddle_00244",
+    "question": "一件东西大无边，能装三百多个天，还装月亮十二个，它换衣服过新年。",
+    "answer": "日历",
+    "category": "物品",
+    "popularity": 6123
+  },
+  {
+    "id": "riddle_00245",
+    "question": "不是糕点不是糖，洁白芬芳袋里装，不能吃来不能喝，每天你都要尝尝。",
+    "answer": "牙膏",
+    "category": "物品",
+    "popularity": 7456
+  },
+  {
+    "id": "riddle_00246",
+    "question": "一物生来真稀奇，身穿三百多件衣，每天给它脱一件，年底剩下一张皮。",
+    "answer": "日历",
+    "category": "物品",
+    "popularity": 6789
+  },
+  {
+    "id": "riddle_00247",
+    "question": "四四方方一块布，嘴和鼻子都盖住，两根带子耳上挂，不怕风沙不怕土。",
+    "answer": "口罩",
+    "category": "物品",
+    "popularity": 5987
+  },
+  {
+    "id": "riddle_00248",
+    "question": "十个客人十间屋，冷了进去暖了出。",
+    "answer": "手套",
+    "category": "物品",
+    "popularity": 5345
+  },
+  {
+    "id": "riddle_00249",
+    "question": "小小两只船，没桨又没帆，白天带它到处走，黑夜停在床跟前。",
+    "answer": "鞋",
+    "category": "物品",
+    "popularity": 6234
+  },
+  {
+    "id": "riddle_00250",
+    "question": "一本书，天天看，看了一篇撕一篇，一年到头多少天，小书撕下多少篇。",
+    "answer": "日历",
+    "category": "物品",
+    "popularity": 5678
+  },
+  {
+    "id": "riddle_00251",
+    "question": "你说稀奇不稀奇，汽车长着长胳膊，抓起东西往上举，千斤万斤不费力。",
+    "answer": "起重机",
+    "category": "机械",
+    "popularity": 4890
+  },
+  {
+    "id": "riddle_00252",
+    "question": "一匹马儿真正好，没有尾巴没有脚，不喝水来不吃草，骑上它就满街跑。",
+    "answer": "自行车",
+    "category": "交通工具",
+    "popularity": 8234
+  },
+  {
+    "id": "riddle_00253",
+    "question": "一件东西来回走，只有牙齿没有口。",
+    "answer": "锯",
+    "category": "工具",
+    "popularity": 6456
+  },
+  {
+    "id": "riddle_00254",
+    "question": "四四方方一座城，里面住满红头兵，红头撞在黑墙上，一触即发放光明。",
+    "answer": "火柴",
+    "category": "物品",
+    "popularity": 7123
+  },
+  {
+    "id": "riddle_00255",
+    "question": "铁笼中，罩铁鸟，翅膀多，不会跑，热天一到嗡嗡飞，谁在旁边谁叫好。",
+    "answer": "电风扇",
+    "category": "电器",
+    "popularity": 7567
+  },
+  {
+    "id": "riddle_00256",
+    "question": "一扇玻璃窗，光线明晃晃，戏剧它会演，电影它能放。",
+    "answer": "电视机",
+    "category": "电器",
+    "popularity": 7890
+  },
+  {
+    "id": "riddle_00257",
+    "question": "小小一间房，只有一扇窗，唱歌又跳舞，天天变花样。",
+    "answer": "电视机",
+    "category": "电器",
+    "popularity": 7654
+  },
+  {
+    "id": "riddle_00258",
+    "question": "没到手想抢到手，抢到手却扔出手。",
+    "answer": "篮球",
+    "category": "体育用品",
+    "popularity": 6987
+  },
+  {
+    "id": "riddle_00259",
+    "question": "方寸之间藏乾坤，指纹解锁辨主人。",
+    "answer": "智能手机",
+    "category": "电子产品",
+    "popularity": 9345
+  },
+  {
+    "id": "riddle_00260",
+    "question": "有网不是蜘蛛，能飞不是大鹏，传递天下事，万里若比邻。",
+    "answer": "互联网",
+    "category": "科技",
+    "popularity": 9123
+  },
+  {
+    "id": "riddle_00261",
+    "question": "圆圆身子像只罐，两条辫子露外面，通电它就唱起歌，一扭辫子它就哑。",
+    "answer": "收音机",
+    "category": "电器",
+    "popularity": 6234
+  },
+  {
+    "id": "riddle_00262",
+    "question": "一朵花儿开得大，藤儿牵着高高挂，没有香味没有叶，会唱歌来会说话。",
+    "answer": "喇叭",
+    "category": "电器",
+    "popularity": 5678
+  },
+  {
+    "id": "riddle_00263",
+    "question": "一只花鸡站桌上，穿针引线点头忙，嘴里咬过五彩布，吐出各式花衣裳。",
+    "answer": "缝纫机",
+    "category": "机械",
+    "popularity": 4987
+  },
+  {
+    "id": "riddle_00264",
+    "question": "一根藤上结瓢瓜，生根结果在你家，年年看瓜瓜不长，夜夜看瓜瓜开花。",
+    "answer": "电灯",
+    "category": "电器",
+    "popularity": 6345
+  },
+  {
+    "id": "riddle_00265",
+    "question": "墙上一条河，刮风不扬波，夏天河水涨，冬天河水落。",
+    "answer": "温度计",
+    "category": "物品",
+    "popularity": 5876
+  },
+  {
+    "id": "riddle_00266",
+    "question": "身上一把尺，肚里一条线，夏天线儿长，冬天线儿短。",
+    "answer": "温度计",
+    "category": "物品",
+    "popularity": 6123
+  },
+  {
+    "id": "riddle_00267",
+    "question": "一条小铁船，船底是热的，载人不下水，专在桌上行。",
+    "answer": "熨斗",
+    "category": "电器",
+    "popularity": 5342
+  },
+  {
+    "id": "riddle_00268",
+    "question": "小小玻璃房，外面罩围墙，屋里热乎乎，墙外冰冰凉。",
+    "answer": "保温杯",
+    "category": "物品",
+    "popularity": 6789
+  },
+  {
+    "id": "riddle_00269",
+    "question": "看着像块糕，不能用嘴咬，沾水搓一搓，冒出白泡泡。",
+    "answer": "肥皂",
+    "category": "物品",
+    "popularity": 7234
+  },
+  {
+    "id": "riddle_00270",
+    "question": "兄弟俩，一样长，同进出，成双对。",
+    "answer": "筷子",
+    "category": "物品",
+    "popularity": 8456
+  },
+  {
+    "id": "riddle_00271",
+    "question": "看着像蛋糕，不能用嘴咬，沾水搓一搓，变成白泡泡。",
+    "answer": "香皂",
+    "category": "物品",
+    "popularity": 6987
+  },
+  {
+    "id": "riddle_00272",
+    "question": "有风身不动，一动就生风，人间不用我，要等起秋风。",
+    "answer": "扇子",
+    "category": "物品",
+    "popularity": 6231
+  },
+  {
+    "id": "riddle_00273",
+    "question": "头戴玻璃平顶帽，长圆身体披长袍，夜里睁开一只眼，专往黑暗地方瞄。",
+    "answer": "手电筒",
+    "category": "物品",
+    "popularity": 5876
+  },
+  {
+    "id": "riddle_00274",
+    "question": "铁嘴巴，爱吃纸，专门为人做好事，按它鼻子它就咬，咬完掉个铁牙齿。",
+    "answer": "订书机",
+    "category": "文具",
+    "popularity": 5345
+  },
+  {
+    "id": "riddle_00275",
+    "question": "小铁狗，不会跑，专爱咬你的手。",
+    "answer": "指甲刀",
+    "category": "工具",
+    "popularity": 4987
+  },
+  {
+    "id": "riddle_00276",
+    "question": "一队胡子兵，当了牙医生，早晚来巡查，消灭细菌兵。",
+    "answer": "牙刷",
+    "category": "物品",
+    "popularity": 7123
+  },
+  {
+    "id": "riddle_00277",
+    "question": "脸儿亮光光，坐在桌子上，妹妹跑过来，请它照个相。",
+    "answer": "镜子",
+    "category": "物品",
+    "popularity": 7567
+  },
+  {
+    "id": "riddle_00278",
+    "question": "又圆又亮，左右成双，脚蹬两耳，腰跨鼻梁。",
+    "answer": "眼镜",
+    "category": "物品",
+    "popularity": 7890
+  },
+  {
+    "id": "riddle_00279",
+    "question": "头上亮光光，出来就成双，背上缚绳子，驮人走四方。",
+    "answer": "皮鞋",
+    "category": "物品",
+    "popularity": 6234
+  },
+  {
+    "id": "riddle_00280",
+    "question": "口比肚子大，给啥就吃啥，它吃为了你，你吃端着它。",
+    "answer": "碗",
+    "category": "物品",
+    "popularity": 6789
+  },
+  {
+    "id": "riddle_00281",
+    "question": "猛将百余人，无事不出城，出城就放火，引火自烧身。",
+    "answer": "火柴",
+    "category": "物品",
+    "popularity": 5342
+  },
+  {
+    "id": "riddle_00282",
+    "question": "一只雀，飞上桌，捏尾巴，跳下河。",
+    "answer": "汤匙",
+    "category": "餐具",
+    "popularity": 4876
+  },
+  {
+    "id": "riddle_00283",
+    "question": "有硬有软，有长有宽，白天空闲，夜晚上班。",
+    "answer": "床",
+    "category": "家具",
+    "popularity": 6123
+  },
+  {
+    "id": "riddle_00284",
+    "question": "生在水中，就怕水冲，一到水里，无影无踪。",
+    "answer": "盐",
+    "category": "调味品",
+    "popularity": 5678
+  },
+  {
+    "id": "riddle_00285",
+    "question": "一物生来身穿三百多件衣，每天脱一件，年底剩张皮。",
+    "answer": "日历",
+    "category": "物品",
+    "popularity": 5987
+  },
+  {
+    "id": "riddle_00286",
+    "question": "金箍桶，银箍桶，打开来，箍不拢。",
+    "answer": "蛋",
+    "category": "食物",
+    "popularity": 6345
+  },
+  {
+    "id": "riddle_00287",
+    "question": "一位游泳家，说话呱呱呱，小时有尾没有脚，大时有脚没尾巴。",
+    "answer": "青蛙",
+    "category": "动物",
+    "popularity": 8234
+  },
+  {
+    "id": "riddle_00288",
+    "question": "身穿绿衣裳，肚里水汪汪，生的子儿多，个个黑脸膛。",
+    "answer": "西瓜",
+    "category": "植物",
+    "popularity": 7654
+  },
+  {
+    "id": "riddle_00289",
+    "question": "四季常青绿，只是花开难，摊开一只手，尖针已扎满。",
+    "answer": "仙人掌",
+    "category": "植物",
+    "popularity": 6987
+  },
+  {
+    "id": "riddle_00290",
+    "question": "说它是虎它不像，金钱印在黄袄上，站在山上吼一声，吓跑猴子吓跑狼。",
+    "answer": "金钱豹",
+    "category": "动物",
+    "popularity": 7234
+  },
+  {
+    "id": "riddle_00291",
+    "question": "胡子不多两边翘，开口总是喵喵喵，黑夜巡逻眼似灯，粮仓厨房它放哨。",
+    "answer": "猫",
+    "category": "动物",
+    "popularity": 8456
+  },
+  {
+    "id": "riddle_00292",
+    "question": "腿长胳膊短，眉毛盖着眼，有人不吱声，无人爱叫唤。",
+    "answer": "蝈蝈",
+    "category": "动物",
+    "popularity": 6123
+  },
+  {
+    "id": "riddle_00293",
+    "question": "身穿鲜艳百花衣，爱在山丘要儿戏，稍微有点情况紧，只顾头来不顾尾。",
+    "answer": "野鸭",
+    "category": "动物",
+    "popularity": 5345
+  },
+  {
+    "id": "riddle_00294",
+    "question": "小飞虫，尾巴明，黑夜闪闪像盏灯，古代有人曾借用，刻苦读书当明灯。",
+    "answer": "萤火虫",
+    "category": "动物",
+    "popularity": 7567
+  },
+  {
+    "id": "riddle_00295",
+    "question": "一顶透明降落伞，随波逐流飘海中，触手有毒蜇人痛，身上小虾当眼睛。",
+    "answer": "海蜇",
+    "category": "动物",
+    "popularity": 4876
+  },
+  {
+    "id": "riddle_00296",
+    "question": "尖尖嘴，细细腿，狡猾多疑拖大尾。",
+    "answer": "狐狸",
+    "category": "动物",
+    "popularity": 7890
+  },
+  {
+    "id": "riddle_00297",
+    "question": "身穿白袍子，头戴红帽子，走路像公子，说话高嗓子。",
+    "answer": "鹅",
+    "category": "动物",
+    "popularity": 7234
+  },
+  {
+    "id": "riddle_00298",
+    "question": "每隔数日脱旧衣，没有脚爪走得急，攀缘树木多轻便，光滑地面步难移。",
+    "answer": "蛇",
+    "category": "动物",
+    "popularity": 6543
+  },
+  {
+    "id": "riddle_00299",
+    "question": "长相俊俏，爱舞爱跳，飞舞花丛，快乐逍遥。",
+    "answer": "蝴蝶",
+    "category": "动物",
+    "popularity": 8123
+  },
+  {
+    "id": "riddle_00300",
+    "question": "尖尖牙齿，大盆嘴，短短腿儿长长尾，捕捉食物流眼泪，人人知它假慈悲。",
+    "answer": "鳄鱼",
+    "category": "动物",
+    "popularity": 6987
+  },
+  {
+    "id": "riddle_00301",
+    "question": "性子像鸭水里游，样子像鸟天上飞，游玩休息成双对，夫妻恩爱永不离。",
+    "answer": "鸳鸯",
+    "category": "动物",
+    "popularity": 7654
+  },
+  {
+    "id": "riddle_00302",
+    "question": "有枪不能放，有腿不能走，天天弯着腰，总在水里游。",
+    "answer": "虾",
+    "category": "动物",
+    "popularity": 6234
+  },
+  {
+    "id": "riddle_00303",
+    "question": "不走光跳，吵吵闹闹，吃虫吃粮，功大过小。",
+    "answer": "麻雀",
+    "category": "动物",
+    "popularity": 6789
+  },
+  {
+    "id": "riddle_00304",
+    "question": "像条带，一盘菜，下了水，跑得快。",
+    "answer": "带鱼",
+    "category": "动物",
+    "popularity": 5345
+  },
+  {
+    "id": "riddle_00305",
+    "question": "背面灰色腹有斑，繁殖习性很罕见，卵蛋产在邻鸟窝，代它孵育自消遣。",
+    "answer": "杜鹃",
+    "category": "动物",
+    "popularity": 4876
+  },
+  {
+    "id": "riddle_00306",
+    "question": "头戴红缨帽，身穿绿罗袍，背上生双翅，爱脏腿长毛。",
+    "answer": "苍蝇",
+    "category": "动物",
+    "popularity": 5678
+  },
+  {
+    "id": "riddle_00307",
+    "question": "身子粗壮头长角，大人小孩都爱它，给人奶汁它吃草，浑身上下净是宝。",
+    "answer": "奶牛",
+    "category": "动物",
+    "popularity": 7234
+  },
+  {
+    "id": "riddle_00308",
+    "question": "栖息沼泽和田头，随着季节南北走，队列排成人字形，纪律自觉能遵守。",
+    "answer": "大雁",
+    "category": "动物",
+    "popularity": 6987
+  },
+  {
+    "id": "riddle_00309",
+    "question": "天热爬上树梢，总爱大喊大叫，明明啥也不懂，偏说知道知道。",
+    "answer": "蝉",
+    "category": "动物",
+    "popularity": 7567
+  },
+  {
+    "id": "riddle_00310",
+    "question": "样子像吊塔，身上布满花，跑路速度快，可惜是哑巴。",
+    "answer": "长颈鹿",
+    "category": "动物",
+    "popularity": 6345
+  },
+  {
+    "id": "riddle_00311",
+    "question": "家住青山顶，身披破蓑衣，常在天上游，爱吃兔和鸡。",
+    "answer": "鹰",
+    "category": "动物",
+    "popularity": 7890
+  },
+  {
+    "id": "riddle_00312",
+    "question": "头戴红缨帽，身穿绿战袍，说话音清脆，时时呱呱叫。",
+    "answer": "鹦鹉",
+    "category": "动物",
+    "popularity": 7234
+  },
+  {
+    "id": "riddle_00313",
+    "question": "颜色有白又有灰，经过驯养很聪明，可以当做联络员，飞山越岭把信送。",
+    "answer": "鸽子",
+    "category": "动物",
+    "popularity": 6543
+  },
+  {
+    "id": "riddle_00314",
+    "question": "身上雪雪白，肚里墨墨黑，从不偷东西，却说它是贼。",
+    "answer": "乌贼",
+    "category": "动物",
+    "popularity": 5876
+  },
+  {
+    "id": "riddle_00315",
+    "question": "习性刁残海霸王，捕它专造工作船，浑身上下全是宝，海面换气喷银泉。",
+    "answer": "鲸",
+    "category": "动物",
+    "popularity": 7123
+  },
+  {
+    "id": "riddle_00316",
+    "question": "肚大眼明头儿小，胸前有对大砍刀，别看样子有点笨，捕杀害虫又灵巧。",
+    "answer": "螳螂",
+    "category": "动物",
+    "popularity": 6789
+  },
+  {
+    "id": "riddle_00317",
+    "question": "面孔像猫，起飞像鸟，天天上夜班，捉鼠本领高。",
+    "answer": "猫头鹰",
+    "category": "动物",
+    "popularity": 7456
+  },
+  {
+    "id": "riddle_00318",
+    "question": "有红有绿不是花，有枝有叶不是树，五颜六色居水中，原是海底一动物。",
+    "answer": "珊瑚",
+    "category": "动物",
+    "popularity": 5345
+  },
+  {
+    "id": "riddle_00319",
+    "question": "团结劳动是模范，全家住在格子间，常到花丛去工作，造出产品比糖甜。",
+    "answer": "蜜蜂",
+    "category": "动物",
+    "popularity": 8123
+  },
+  {
+    "id": "riddle_00320",
+    "question": "小小诸葛亮，独坐中军帐，摆下八卦阵，专捉飞来将。",
+    "answer": "蜘蛛",
+    "category": "动物",
+    "popularity": 8765
+  },
+  {
+    "id": "riddle_00321",
+    "question": "手掌珍贵似明珠，行动笨拙傻乎乎，样子像狗爱玩耍，下水上树有功夫。",
+    "answer": "熊",
+    "category": "动物",
+    "popularity": 7234
+  },
+  {
+    "id": "riddle_00322",
+    "question": "是牛从来不耕田，体矮毛密能耐寒，爬冰卧雪善驮运，高原之舟人人赞。",
+    "answer": "牦牛",
+    "category": "动物",
+    "popularity": 6543
+  },
+  {
+    "id": "riddle_00323",
+    "question": "红冠黑嘴白衣裳，双腿细瘦走路晃，漫步水中捕鱼虾，凌空展翅能飞翔。",
+    "answer": "鹤",
+    "category": "动物",
+    "popularity": 6987
+  },
+  {
+    "id": "riddle_00324",
+    "question": "凸眼睛，阔嘴巴，尾马要比身体大，碧绿水草衬着它，好像一朵大红花。",
+    "answer": "金鱼",
+    "category": "动物",
+    "popularity": 7654
+  },
+  {
+    "id": "riddle_00325",
+    "question": "像熊比熊小，像猫比猫大，竹笋是食粮，密林中安家。",
+    "answer": "熊猫",
+    "category": "动物",
+    "popularity": 9234
+  },
+  {
+    "id": "riddle_00326",
+    "question": "它家住在弯弯里，前门后门都不关，狮子豺狼都不怕，只怕小虎下了山。",
+    "answer": "老鼠",
+    "category": "动物",
+    "popularity": 6789
+  },
+  {
+    "id": "riddle_00327",
+    "question": "有个小姑娘，身穿黄衣裳，你要欺侮它，它就戳一枪。",
+    "answer": "蜜蜂",
+    "category": "动物",
+    "popularity": 7234
+  },
+  {
+    "id": "riddle_00328",
+    "question": "身笨力气大，干活常带枷，春耕和秋种，不能缺少它。",
+    "answer": "牛",
+    "category": "动物",
+    "popularity": 7567
+  },
+  {
+    "id": "riddle_00329",
+    "question": "身长约一丈，鼻生头顶上，背黑肚皮白，安家在海洋。",
+    "answer": "海豚",
+    "category": "动物",
+    "popularity": 6987
+  },
+  {
+    "id": "riddle_00330",
+    "question": "会飞不是鸟，两翅没羽毛，白天休息晚活动，捕捉蚊子本领高。",
+    "answer": "蝙蝠",
+    "category": "动物",
+    "popularity": 6345
+  },
+  {
+    "id": "riddle_00331",
+    "question": "身披一件大皮袄，山坡上面吃青草，为了别人穿得暖，甘心脱下自己毛。",
+    "answer": "绵羊",
+    "category": "动物",
+    "popularity": 5876
+  },
+  {
+    "id": "riddle_00332",
+    "question": "头上长树杈，身上有白花，四腿跑得快，生长在山野。",
+    "answer": "梅花鹿",
+    "category": "动物",
+    "popularity": 7123
+  },
+  {
+    "id": "riddle_00333",
+    "question": "形状像耗子，爬在树枝上，生活像猴子，忙着摘果子。",
+    "answer": "松鼠",
+    "category": "动物",
+    "popularity": 7654
+  },
+  {
+    "id": "riddle_00334",
+    "question": "耳大身肥眼睛小，好吃懒做爱睡觉，模样虽丑浑身宝，生产生活不可少。",
+    "answer": "猪",
+    "category": "动物",
+    "popularity": 6789
+  },
+  {
+    "id": "riddle_00335",
+    "question": "身小力不小，团结又勤劳，有时搬粮食，有时挖地道。",
+    "answer": "蚂蚁",
+    "category": "动物",
+    "popularity": 8234
+  },
+  {
+    "id": "riddle_00336",
+    "question": "身体半球形，背上七颗星，棉花喜爱它，捕虫最著名。",
+    "answer": "七星瓢虫",
+    "category": "动物",
+    "popularity": 6543
+  },
+  {
+    "id": "riddle_00337",
+    "question": "头戴珊瑚帽，身穿梅花袄，腿儿细又长，翻山快如飞。",
+    "answer": "鹿",
+    "category": "动物",
+    "popularity": 5876
+  },
+  {
+    "id": "riddle_00338",
+    "question": "一条大船不靠岸，海里沉浮随心愿，不烧煤来不用油，烟筒冒水不见烟。",
+    "answer": "鲸",
+    "category": "动物",
+    "popularity": 6345
+  },
+  {
+    "id": "riddle_00339",
+    "question": "嘴像小铲子，脚像小扇子，走路左右摆，水上划船子。",
+    "answer": "鸭",
+    "category": "动物",
+    "popularity": 7234
+  },
+  {
+    "id": "riddle_00340",
+    "question": "头前两把刀，钻地害禾苗，捕来烘成干，一味利尿药。",
+    "answer": "蝼蛄",
+    "category": "动物",
+    "popularity": 4876
+  },
+  {
+    "id": "riddle_00341",
+    "question": "四蹄飞奔鬃毛抖，拉车驮货多面手，农民夸它好伙伴，骑兵爱它如战友。",
+    "answer": "马",
+    "category": "动物",
+    "popularity": 7567
+  },
+  {
+    "id": "riddle_00342",
+    "question": "八只脚，抬面鼓，两把剪刀鼓前舞，生来横行又霸道，嘴里常把泡沫吐。",
+    "answer": "螃蟹",
+    "category": "动物",
+    "popularity": 7890
+  },
+  {
+    "id": "riddle_00343",
+    "question": "黑夜林中小哨兵，眼睛限像两盏灯，瞧瞧西来望望东，抓住盗贼不留情。",
+    "answer": "猫头鹰",
+    "category": "动物",
+    "popularity": 6987
+  },
+  {
+    "id": "riddle_00344",
+    "question": "头像绵羊颈似鹅，不是牛马不是骡，戈壁滩上万里行，能耐渴来能忍饿。",
+    "answer": "骆驼",
+    "category": "动物",
+    "popularity": 7234
+  },
+  {
+    "id": "riddle_00345",
+    "question": "说它是马猜错了，穿的衣服净道道，把它放进动物园，大人小孩都爱瞧。",
+    "answer": "斑马",
+    "category": "动物",
+    "popularity": 7654
+  },
+  {
+    "id": "riddle_00346",
+    "question": "不是狐狸不是狗，前面架铡刀，后面拖扫帚。",
+    "answer": "狼",
+    "category": "动物",
+    "popularity": 6543
+  },
+  {
+    "id": "riddle_00347",
+    "question": "虽有翅膀飞不起，非洲沙漠多足迹，快步如飞多迅速，鸟中体重它第一。",
+    "answer": "鸵鸟",
+    "category": "动物",
+    "popularity": 5876
+  },
+  {
+    "id": "riddle_00348",
+    "question": "一身白衣多健美，在大海上四处飞，喜欢与船结伙伴，主要食物是鱼类。",
+    "answer": "海鸥",
+    "category": "动物",
+    "popularity": 7123
+  },
+  {
+    "id": "riddle_00349",
+    "question": "身上乌又乌，赤脚走江湖，别人看它吃饭，其实天天饿肚。",
+    "answer": "鱼鹰",
+    "category": "动物",
+    "popularity": 5345
+  },
+  {
+    "id": "riddle_00350",
+    "question": "鹿马驴牛它都象，很难肯定象那样，四种相貌集一体，说象又都不太像。",
+    "answer": "麋鹿",
+    "category": "动物",
+    "popularity": 4876
+  },
+  {
+    "id": "riddle_00351",
+    "question": "头上两根须，身穿花衣衫，飞进花朵里，传粉又吃蜜。",
+    "answer": "蝴蝶",
+    "category": "动物",
+    "popularity": 8123
+  },
+  {
+    "id": "riddle_00352",
+    "question": "一物生来力量强，又有爹来又有娘，有爹不和爹一姓，有娘不和娘一样。",
+    "answer": "骡子",
+    "category": "动物",
+    "popularity": 5678
+  },
+  {
+    "id": "riddle_00353",
+    "question": "五彩星，落水底，样子老是有心计，悄悄潜伏沙面上，一有机会搞袭击。",
+    "answer": "海星",
+    "category": "动物",
+    "popularity": 4987
+  },
+  {
+    "id": "riddle_00354",
+    "question": "两头尖尖相貌丑，脚手耳目都没有，整天工作在地下，一到下雨才露头。",
+    "answer": "蚯蚓",
+    "category": "动物",
+    "popularity": 6345
+  },
+  {
+    "id": "riddle_00355",
+    "question": "小飞贼，水里生，干坏事，狠又凶，偷偷摸摸吸人血，还要嗡嗡叫几声。",
+    "answer": "蚊子",
+    "category": "动物",
+    "popularity": 7234
+  },
+  {
+    "id": "riddle_00356",
+    "question": "说长道短，不差一分。",
+    "answer": "尺子",
+    "category": "文具",
+    "popularity": 6789
+  },
+  {
+    "id": "riddle_00357",
+    "question": "生在青山叶叶多，离了家乡纸包裹，宾朋来了开水泼，口口声声都吞我。",
+    "answer": "茶叶",
+    "category": "食物",
+    "popularity": 5876
+  },
+  {
+    "id": "riddle_00358",
+    "question": "四四方方，白如雪霜，敬重他者，安息地方。",
+    "answer": "豆腐",
+    "category": "食物",
+    "popularity": 5345
+  },
+  {
+    "id": "riddle_00359",
+    "question": "土里生，水里捞，石头中间走一遭，变得白净没骨头，人人爱吃营养高。",
+    "answer": "豆腐",
+    "category": "食物",
+    "popularity": 4987
+  },
+  {
+    "id": "riddle_00360",
+    "question": "来自水中，就怕水冲，回到水里，无影无踪。",
+    "answer": "盐",
+    "category": "调味品",
+    "popularity": 6123
+  },
+  {
+    "id": "riddle_00361",
+    "question": "小白孩，住高楼，看不见，摸不着。",
+    "answer": "灵魂",
+    "category": "概念",
+    "popularity": 4231
+  },
+  {
+    "id": "riddle_00362",
+    "question": "有城没有街和房，有山没有峰和岗，有河没有水和鱼，有路不见人来往。",
+    "answer": "地图",
+    "category": "物品",
+    "popularity": 7654
+  },
+  {
+    "id": "riddle_00363",
+    "question": "说大不大，说小不小，间间房子不能少。",
+    "answer": "门",
+    "category": "物品",
+    "popularity": 6987
+  },
+  {
+    "id": "riddle_00364",
+    "question": "铁打心肠一枝花，我是主人好管家，主人一来我开心，不是主人不理他。",
+    "answer": "锁",
+    "category": "物品",
+    "popularity": 6345
+  },
+  {
+    "id": "riddle_00365",
+    "question": "哥俩一般高，每天三出操，人人都需要，团结互助好。",
+    "answer": "筷子",
+    "category": "物品",
+    "popularity": 7234
+  },
+  {
+    "id": "riddle_00366",
+    "question": "有的长来有的短，有的方来有的圆，能架大桥能造房，小朋友们最爱玩。",
+    "answer": "积木",
+    "category": "玩具",
+    "popularity": 7890
+  },
+  {
+    "id": "riddle_00367",
+    "question": "一物真稀奇，吃饭不吃米，唱歌不唱曲，专门受人欺。",
+    "answer": "棋子",
+    "category": "玩具",
+    "popularity": 5678
+  },
+  {
+    "id": "riddle_00368",
+    "question": "圆圆像个瓜，人们爱玩它，没到手抢它，抢到手丢它。",
+    "answer": "篮球",
+    "category": "体育用品",
+    "popularity": 7123
+  },
+  {
+    "id": "riddle_00369",
+    "question": "一匹马儿两人骑，这边高来那边低，虽然马儿不会跑，两人骑着笑嘻嘻。",
+    "answer": "跷跷板",
+    "category": "玩具",
+    "popularity": 6543
+  },
+  {
+    "id": "riddle_00370",
+    "question": "一座桥，地上架，走着上去坐着下。",
+    "answer": "滑梯",
+    "category": "玩具",
+    "popularity": 6987
+  },
+  {
+    "id": "riddle_00371",
+    "question": "木制架子空中悬，两个辫子接上天，小小主人来驾驭，来回动荡画弧圈。",
+    "answer": "秋千",
+    "category": "玩具",
+    "popularity": 7234
+  },
+  {
+    "id": "riddle_00372",
+    "question": "远看像高坡，近看像楼阁，上楼慢慢行，下坡快如梭。",
+    "answer": "滑梯",
+    "category": "玩具",
+    "popularity": 5876
+  },
+  {
+    "id": "riddle_00373",
+    "question": "生来如玉配成双，二人双双到他乡，白天饿来夜晚饱，日日辛苦日日忙。",
+    "answer": "纽扣",
+    "category": "物品",
+    "popularity": 4876
+  },
+  {
+    "id": "riddle_00374",
+    "question": "小房屋，半间租，不分男，不分女。",
+    "answer": "鞋子",
+    "category": "物品",
+    "popularity": 5345
+  },
+  {
+    "id": "riddle_00375",
+    "question": "两只小船各西东，十个客人坐当中，白天有来又有往，晚上客去船自空。",
+    "answer": "鞋子",
+    "category": "物品",
+    "popularity": 6123
+  },
+  {
+    "id": "riddle_00376",
+    "question": "一对老母鸡，吃泥不吃米，下雨吃个饱，晴天饿肚皮。",
+    "answer": "胶鞋",
+    "category": "物品",
+    "popularity": 4987
+  },
+  {
+    "id": "riddle_00377",
+    "question": "日里忙忙碌碌，夜里茅草盖屋。",
+    "answer": "眼睛",
+    "category": "人体",
+    "popularity": 7234
+  },
+  {
+    "id": "riddle_00378",
+    "question": "早上开门，夜里关门，走近一看，门里有人。",
+    "answer": "眼睛",
+    "category": "人体",
+    "popularity": 7654
+  },
+  {
+    "id": "riddle_00379",
+    "question": "两姐妹，一样长，酸甜苦辣她先尝。",
+    "answer": "筷子",
+    "category": "物品",
+    "popularity": 6789
+  },
+  {
+    "id": "riddle_00380",
+    "question": "小小一只猴，有事爱磕头。",
+    "answer": "打火机",
+    "category": "物品",
+    "popularity": 5345
+  },
+  {
+    "id": "riddle_00381",
+    "question": "铁嘴唇，没长牙，嘴里衔块猪油渣，单等小偷上门来，大喊一声抓住他。",
+    "answer": "捕鼠夹",
+    "category": "工具",
+    "popularity": 4876
+  },
+  {
+    "id": "riddle_00382",
+    "question": "一条黑蛇，嘴尖牙快，白天上山，晚上回来。",
+    "answer": "针",
+    "category": "物品",
+    "popularity": 5678
+  },
+  {
+    "id": "riddle_00383",
+    "question": "一根藤上几个瓜，日日开日日谢。",
+    "answer": "鞭炮",
+    "category": "物品",
+    "popularity": 4987
+  },
+  {
+    "id": "riddle_00384",
+    "question": "红姑娘，住小巷，冬天短，夏天长。",
+    "answer": "灯笼",
+    "category": "物品",
+    "popularity": 5345
+  },
+  {
+    "id": "riddle_00385",
+    "question": "有花不能采，有鸟不能抓，有果不能摘，有树不能爬。",
+    "answer": "画",
+    "category": "物品",
+    "popularity": 6789
+  },
+  {
+    "id": "riddle_00386",
+    "question": "有口不说一句话，无脚能走千里路，他把人家心中事，桩桩件件说清楚。",
+    "answer": "信",
+    "category": "物品",
+    "popularity": 6123
+  },
+  {
+    "id": "riddle_00387",
+    "question": "一条腿，一排牙，肚子里面藏人家，走路时候带着它，休息时候墙上挂。",
+    "answer": "钥匙",
+    "category": "物品",
+    "popularity": 5345
+  },
+  {
+    "id": "riddle_00388",
+    "question": "生在鸡家湾，嫁到竹家滩，向来爱干净，常逛灰家山。",
+    "answer": "鸡毛掸子",
+    "category": "物品",
+    "popularity": 4876
+  },
+  {
+    "id": "riddle_00389",
+    "question": "头戴塑料帽，身穿锡花袍，用手挤一挤，入口变白泡。",
+    "answer": "牙膏",
+    "category": "物品",
+    "popularity": 5678
+  },
+  {
+    "id": "riddle_00390",
+    "question": "一间房，两家住，没房顶来缺窗户，一家开的黑染房，一家开的麻绳铺。",
+    "answer": "砚台",
+    "category": "文具",
+    "popularity": 4234
+  },
+  {
+    "id": "riddle_00391",
+    "question": "远看一盘塔，近看红虫往上爬，红虫爬上顶，不见红虫不见塔。",
+    "answer": "盘香",
+    "category": "物品",
+    "popularity": 3987
+  },
+  {
+    "id": "riddle_00392",
+    "question": "一根藤上结瓢瓜，生根结果在你家，年年看瓜瓜不长，夜夜看瓜瓜开花。",
+    "answer": "电灯",
+    "category": "电器",
+    "popularity": 6345
+  },
+  {
+    "id": "riddle_00393",
+    "question": "城里一根藤，城外去生根，阿五来敲门，屋里来应承。",
+    "answer": "电话",
+    "category": "电器",
+    "popularity": 5876
+  },
+  {
+    "id": "riddle_00394",
+    "question": "一条带儿细又长，开动机器它又忙，你作报告它记录，一字一句不走样。",
+    "answer": "录音机",
+    "category": "电器",
+    "popularity": 4987
+  },
+  {
+    "id": "riddle_00395",
+    "question": "四四方方一座城，夜里关门不点灯，贼在城外乱嚷嚷，主人安心起鼾声。",
+    "answer": "蚊帐",
+    "category": "物品",
+    "popularity": 5345
+  },
+  {
+    "id": "riddle_00396",
+    "question": "有门无锁，有顶无底，夜间放下，天明挂起。",
+    "answer": "蚊帐",
+    "category": "物品",
+    "popularity": 5678
+  },
+  {
+    "id": "riddle_00397",
+    "question": "石头重重不是山，双脚奔波没遮拦，雷声隆隆不下雨，大雪纷纷不觉寒。",
+    "answer": "石磨",
+    "category": "工具",
+    "popularity": 4876
+  },
+  {
+    "id": "riddle_00398",
+    "question": "一只狗，站门口，打一枪，就开口。",
+    "answer": "锁",
+    "category": "物品",
+    "popularity": 5345
+  },
+  {
+    "id": "riddle_00399",
+    "question": "铁打一只船，不推不开船，飞阵蒙蒙雨，船过水就干。",
+    "answer": "熨斗",
+    "category": "电器",
+    "popularity": 5678
+  },
+  {
+    "id": "riddle_00400",
+    "question": "一张网儿四方方，从不捕鱼撒入江，噼噼啪啪一阵响，打得飞贼一命丧。",
+    "answer": "蝇拍",
+    "category": "物品",
+    "popularity": 4234
+  }
+]

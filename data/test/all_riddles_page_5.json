@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "riddle_801",
+    "question": "什么瓜不能吃？",
+    "answer": "傻瓜",
+    "category": "脑筋急转弯",
+    "popularity": 9876
+  },
+  {
+    "id": "riddle_802",
+    "question": "什么酒不能喝？",
+    "answer": "碘酒",
+    "category": "脑筋急转弯",
+    "popularity": 9765
+  },
+  {
+    "id": "riddle_803",
+    "question": "什么蛋打不烂，煮不熟，更不能吃？",
+    "answer": "考试得的零蛋",
+    "category": "脑筋急转弯",
+    "popularity": 9654
+  },
+  {
+    "id": "riddle_804",
+    "question": "火车由北京到上海需要6小时，行使3小时后，火车该在什么地方？",
+    "answer": "在车轨上",
+    "category": "脑筋急转弯",
+    "popularity": 9543
+  },
+  {
+    "id": "riddle_805",
+    "question": "头像绵羊颈似鹅，不是牛马不是骡，戈壁滩上万里行，能耐渴来能忍饿。",
+    "answer": "骆驼",
+    "category": "动物",
+    "popularity": 9432
+  },
+  {
+    "id": "riddle_806",
+    "question": "兄弟五个人，各进各的门，若是走错了，出来笑死人。",
+    "answer": "手套",
+    "category": "物品",
+    "popularity": 9321
+  },
+  {
+    "id": "riddle_807",
+    "question": "有位小姑娘，身穿黄衣裳，你要欺侮它，它就扎一枪。",
+    "answer": "黄蜂",
+    "category": "物品",
+    "popularity": 9210
+  },
+  {
+    "id": "riddle_808",
+    "question": "一个南瓜两头儿空，肚里开花放光明，有瓜没叶儿高高挂，照得面前一片红。",
+    "answer": "灯笼",
+    "category": "物品",
+    "popularity": 9109
+  },
+  {
+    "id": "riddle_809",
+    "question": "四四方方一座城，城里住满红头兵，红头撞在黑墙上，一触即发放光明。",
+    "answer": "火柴",
+    "category": "物品",
+    "popularity": 9098
+  },
+  {
+    "id": "riddle_810",
+    "question": "小黑人儿细又长，穿着木头花衣裳，画画写字它全会，就是不会把歌唱。",
+    "answer": "铅笔",
+    "category": "物品",
+    "popularity": 8987
+  },
+  {
+    "id": "riddle_811",
+    "question": "一月七日。",
+    "answer": "脂",
+    "category": "字谜",
+    "popularity": 8876
+  },
+  {
+    "id": "riddle_812",
+    "question": "一加一。",
+    "answer": "王",
+    "category": "字谜",
+    "popularity": 8765
+  },
+  {
+    "id": "riddle_813",
+    "question": "一字十三点，难在如何点。",
+    "answer": "汁",
+    "category": "字谜",
+    "popularity": 8654
+  },
+  {
+    "id": "riddle_814",
+    "question": "一百减一。",
+    "answer": "白",
+    "category": "字谜",
+    "popularity": 8543
+  },
+  {
+    "id": "riddle_815",
+    "question": "一口咬定。",
+    "answer": "交",
+    "category": "字谜",
+    "popularity": 8432
+  },
+  {
+    "id": "riddle_816",
+    "question": "千根线来万根线，颗颗珍珠线上穿，看得见来摸得着，掉在地上却不见。",
+    "answer": "雨",
+    "category": "自然",
+    "popularity": 8321
+  },
+  {
+    "id": "riddle_817",
+    "question": "白门楼，红围墙，里面住个红姑娘，酸甜苦辣她都尝。",
+    "answer": "舌头",
+    "category": "自然",
+    "popularity": 8210
+  },
+  {
+    "id": "riddle_818",
+    "question": "上边毛，下边毛，中间一个黑葡萄。",
+    "answer": "眼睛",
+    "category": "自然",
+    "popularity": 8109
+  },
+  {
+    "id": "riddle_819",
+    "question": "一物生得巧，地位比人高，戴上御风寒，脱下有礼貌。",
+    "answer": "帽子",
+    "category": "自然",
+    "popularity": 8098
+  },
+  {
+    "id": "riddle_820",
+    "question": "五个兄弟，生在一起，有骨有肉，长短不齐。",
+    "answer": "手",
+    "category": "自然",
+    "popularity": 7987
+  },
+  {
+    "id": "riddle_821",
+    "question": "什么路最窄？",
+    "answer": "冤家路窄",
+    "category": "脑筋急转弯",
+    "popularity": 7876
+  },
+  {
+    "id": "riddle_822",
+    "question": "什么书在书店买不到？",
+    "answer": "秘书",
+    "category": "脑筋急转弯",
+    "popularity": 7765
+  },
+  {
+    "id": "riddle_823",
+    "question": "什么东西嘴里没有舌头？",
+    "answer": "茶壶嘴",
+    "category": "脑筋急转弯",
+    "popularity": 7654
+  },
+  {
+    "id": "riddle_824",
+    "question": "什么东西有五个头，但人不觉得它怪呢？",
+    "answer": "手，脚",
+    "category": "脑筋急转弯",
+    "popularity": 7543
+  },
+  {
+    "id": "riddle_825",
+    "question": "什么布剪不断？",
+    "answer": "瀑布",
+    "category": "脑筋急转弯",
+    "popularity": 7432
+  },
+  {
+    "id": "riddle_826",
+    "question": "像猫不是猫，夜里捉老鼠，白天睡大觉，嗅觉特别好。",
+    "answer": "猫头鹰",
+    "category": "动物",
+    "popularity": 7321
+  },
+  {
+    "id": "riddle_827",
+    "question": "嘴长耳朵长，一条小尾巴，贪吃不劳动，吃饱就睡下。",
+    "answer": "猪",
+    "category": "动物",
+    "popularity": 7210
+  },
+  {
+    "id": "riddle_828",
+    "question": "身穿黑白花皮衣，模样憨实人人喜，爱吃青青嫩竹笋，竹鼠视它为天敌。",
+    "answer": "熊猫",
+    "category": "动物",
+    "popularity": 7109
+  },
+  {
+    "id": "riddle_829",
+    "question": "一位游泳家，说话呱呱呱，小时有尾没有脚，大时有脚没尾巴。",
+    "answer": "青蛙",
+    "category": "动物",
+    "popularity": 7098
+  },
+  {
+    "id": "riddle_830",
+    "question": "小时着黑衣，大时穿绿袍，水里过日子，岸上来睡觉。",
+    "answer": "青蛙",
+    "category": "动物",
+    "popularity": 6987
+  },
+  {
+    "id": "riddle_831",
+    "question": "玻璃房，水银墙，不怕隔山又隔水，互相说话听得清。",
+    "answer": "电话",
+    "category": "物品",
+    "popularity": 6876
+  },
+  {
+    "id": "riddle_832",
+    "question": "小房子里，住满弟弟，擦破头皮，立刻火起。",
+    "answer": "火柴",
+    "category": "物品",
+    "popularity": 6765
+  },
+  {
+    "id": "riddle_833",
+    "question": "远看白光光，近看玻璃样，越冷越结实，一热水汪汪。",
+    "answer": "冰",
+    "category": "物品",
+    "popularity": 6654
+  },
+  {
+    "id": "riddle_834",
+    "question": "有硬有软，有长有宽，白天空闲，夜晚上班。",
+    "answer": "床",
+    "category": "物品",
+    "popularity": 6543
+  },
+  {
+    "id": "riddle_835",
+    "question": "钢铁身子重万斤，搁在水里它不沉，不怕风浪大，就怕水不深。",
+    "answer": "船",
+    "category": "物品",
+    "popularity": 6432
+  },
+  {
+    "id": "riddle_836",
+    "question": "守门员。",
+    "answer": "闪",
+    "category": "字谜",
+    "popularity": 6321
+  },
+  {
+    "id": "riddle_837",
+    "question": "一口吃掉牛尾巴。",
+    "answer": "告",
+    "category": "字谜",
+    "popularity": 6210
+  },
+  {
+    "id": "riddle_838",
+    "question": "七人头上长了草。",
+    "answer": "花",
+    "category": "字谜",
+    "popularity": 6109
+  },
+  {
+    "id": "riddle_839",
+    "question": "七十二小时。",
+    "answer": "晶",
+    "category": "字谜",
+    "popularity": 6098
+  },
+  {
+    "id": "riddle_840",
+    "question": "皇帝的衣服。",
+    "answer": "袭",
+    "category": "字谜",
+    "popularity": 5987
+  },
+  {
+    "id": "riddle_841",
+    "question": "空心苗，叶儿长，挺直腰杆一两丈，老时头发白苍苍，光长穗子不打粮。",
+    "answer": "芦苇",
+    "category": "植物",
+    "popularity": 5876
+  },
+  {
+    "id": "riddle_842",
+    "question": "小时青青像水草，老来黄黄结珠宝，珠宝脱下金黄衣，粒粒珍珠能食疗。",
+    "answer": "稻谷",
+    "category": "植物",
+    "popularity": 5765
+  },
+  {
+    "id": "riddle_843",
+    "question": "有个矮将军，身上挂满刀，刀鞘外长毛，里面藏宝宝。",
+    "answer": "大豆",
+    "category": "植物",
+    "popularity": 5654
+  },
+  {
+    "id": "riddle_844",
+    "question": "身材瘦瘦个儿高，叶儿细细披绿袍，别看样子像青蒿，香气扑鼻味儿好。",
+    "answer": "芹菜",
+    "category": "植物",
+    "popularity": 5543
+  },
+  {
+    "id": "riddle_845",
+    "question": "不长汁来不生杈，叶子顶上开白花，脑袋睡在地底下，胡子长了一大把。",
+    "answer": "葱",
+    "category": "植物",
+    "popularity": 5432
+  },
+  {
+    "id": "riddle_846",
+    "question": "有红有绿不是花，有枝有叶不是树，五颜六色居水中，原是海底一动物。",
+    "answer": "珊瑚",
+    "category": "自然",
+    "popularity": 5321
+  },
+  {
+    "id": "riddle_847",
+    "question": "小珍珠，真可爱，只能看，不能踩，清晨长在绿草丛，太阳一出无影踪。",
+    "answer": "露珠",
+    "category": "自然",
+    "popularity": 5210
+  },
+  {
+    "id": "riddle_848",
+    "question": "解落三秋叶，能开二月花，过江千尺浪，入竹万竿斜。",
+    "answer": "风",
+    "category": "自然",
+    "popularity": 5109
+  },
+  {
+    "id": "riddle_849",
+    "question": "银线根根长又细，上接天来下着地，线长不能放风筝，线细不能织布匹。",
+    "answer": "雨",
+    "category": "自然",
+    "popularity": 5098
+  },
+  {
+    "id": "riddle_850",
+    "question": "不用泥土栽，不用日头晒，不用水来浇，能在桌上开。",
+    "answer": "塑料花",
+    "category": "自然",
+    "popularity": 4987
+  },
+  {
+    "id": "riddle_851",
+    "question": "什么照片看不出照的是谁？",
+    "answer": "X光片",
+    "category": "脑筋急转弯",
+    "popularity": 4876
+  },
+  {
+    "id": "riddle_852",
+    "question": "什么瓜不能吃？",
+    "answer": "傻瓜",
+    "category": "脑筋急转弯",
+    "popularity": 4765
+  },
+  {
+    "id": "riddle_853",
+    "question": "什么酒不能喝？",
+    "answer": "碘酒",
+    "category": "脑筋急转弯",
+    "popularity": 4654
+  },
+  {
+    "id": "riddle_854",
+    "question": "什么蛋打不烂，煮不熟，更不能吃？",
+    "answer": "考试得的零蛋",
+    "category": "脑筋急转弯",
+    "popularity": 4543
+  },
+  {
+    "id": "riddle_855",
+    "question": "火车由北京到上海需要6小时，行使3小时后，火车该在什么地方？",
+    "answer": "在车轨上",
+    "category": "脑筋急转弯",
+    "popularity": 4432
+  },
+  {
+    "id": "riddle_856",
+    "question": "头像绵羊颈似鹅，不是牛马不是骡，戈壁滩上万里行，能耐渴来能忍饿。",
+    "answer": "骆驼",
+    "category": "动物",
+    "popularity": 4321
+  },
+  {
+    "id": "riddle_857",
+    "question": "兄弟五个人，各进各的门，若是走错了，出来笑死人。",
+    "answer": "手套",
+    "category": "物品",
+    "popularity": 4210
+  },
+  {
+    "id": "riddle_858",
+    "question": "有位小姑娘，身穿黄衣裳，你要欺侮它，它就扎一枪。",
+    "answer": "黄蜂",
+    "category": "物品",
+    "popularity": 4109
+  },
+  {
+    "id": "riddle_859",
+    "question": "一个南瓜两头儿空，肚里开花放光明，有瓜没叶儿高高挂，照得面前一片红。",
+    "answer": "灯笼",
+    "category": "物品",
+    "popularity": 4098
+  },
+  {
+    "id": "riddle_860",
+    "question": "四四方方一座城，城里住满红头兵，红头撞在黑墙上，一触即发放光明。",
+    "answer": "火柴",
+    "category": "物品",
+    "popularity": 3987
+  },
+  {
+    "id": "riddle_861",
+    "question": "小黑人儿细又长，穿着木头花衣裳，画画写字它全会，就是不会把歌唱。",
+    "answer": "铅笔",
+    "category": "物品",
+    "popularity": 3876
+  },
+  {
+    "id": "riddle_862",
+    "question": "一月七日。",
+    "answer": "脂",
+    "category": "字谜",
+    "popularity": 3765
+  },
+  {
+    "id": "riddle_863",
+    "question": "一加一。",
+    "answer": "王",
+    "category": "字谜",
+    "popularity": 3654
+  },
+  {
+    "id": "riddle_864",
+    "question": "一字十三点，难在如何点。",
+    "answer": "汁",
+    "category": "字谜",
+    "popularity": 3543
+  },
+  {
+    "id": "riddle_865",
+    "question": "一百减一。",
+    "answer": "白",
+    "category": "字谜",
+    "popularity": 3432
+  },
+  {
+    "id": "riddle_866",
+    "question": "一口咬定。",
+    "answer": "交",
+    "category": "字谜",
+    "popularity": 3321
+  },
+  {
+    "id": "riddle_867",
+    "question": "千根线来万根线，颗颗珍珠线上穿，看得见来摸得着，掉在地上却不见。",
+    "answer": "雨",
+    "category": "自然",
+    "popularity": 3210
+  },
+  {
+    "id": "riddle_868",
+    "question": "白门楼，红围墙，里面住个红姑娘，酸甜苦辣她都尝。",
+    "answer": "舌头",
+    "category": "自然",
+    "popularity": 3109
+  },
+  {
+    "id": "riddle_869",
+    "question": "上边毛，下边毛，中间一个黑葡萄。",
+    "answer": "眼睛",
+    "category": "自然",
+    "popularity": 3098
+  },
+  {
+    "id": "riddle_870",
+    "question": "一物生得巧，地位比人高，戴上御风寒，脱下有礼貌。",
+    "answer": "帽子",
+    "category": "自然",
+    "popularity": 2987
+  },
+  {
+    "id": "riddle_871",
+    "question": "五个兄弟，生在一起，有骨有肉，长短不齐。",
+    "answer": "手",
+    "category": "自然",
+    "popularity": 2876
+  },
+  {
+    "id": "riddle_872",
+    "question": "什么路最窄？",
+    "answer": "冤家路窄",
+    "category": "脑筋急转弯",
+    "popularity": 2765
+  },
+  {
+    "id": "riddle_873",
+    "question": "什么书在书店买不到？",
+    "answer": "秘书",
+    "category": "脑筋急转弯",
+    "popularity": 2654
+  },
+  {
+    "id": "riddle_874",
+    "question": "什么东西嘴里没有舌头？",
+    "answer": "茶壶嘴",
+    "category": "脑筋急转弯",
+    "popularity": 2543
+  },
+  {
+    "id": "riddle_875",
+    "question": "什么东西有五个头，但人不觉得它怪呢？",
+    "answer": "手，脚",
+    "category": "脑筋急转弯",
+    "popularity": 2432
+  },
+  {
+    "id": "riddle_876",
+    "question": "什么布剪不断？",
+    "answer": "瀑布",
+    "category": "脑筋急转弯",
+    "popularity": 2321
+  },
+  {
+    "id": "riddle_877",
+    "question": "像猫不是猫，夜里捉老鼠，白天睡大觉，嗅觉特别好。",
+    "answer": "猫头鹰",
+    "category": "动物",
+    "popularity": 2210
+  },
+  {
+    "id": "riddle_878",
+    "question": "嘴长耳朵长，一条小尾巴，贪吃不劳动，吃饱就睡下。",
+    "answer": "猪",
+    "category": "动物",
+    "popularity": 2109
+  },
+  {
+    "id": "riddle_879",
+    "question": "身穿黑白花皮衣，模样憨实人人喜，爱吃青青嫩竹笋，竹鼠视它为天敌。",
+    "answer": "熊猫",
+    "category": "动物",
+    "popularity": 2098
+  },
+  {
+    "id": "riddle_880",
+    "question": "一位游泳家，说话呱呱呱，小时有尾没有脚，大时有脚没尾巴。",
+    "answer": "青蛙",
+    "category": "动物",
+    "popularity": 1987
+  },
+  {
+    "id": "riddle_881",
+    "question": "小时着黑衣，大时穿绿袍，水里过日子，岸上来睡觉。",
+    "answer": "青蛙",
+    "category": "动物",
+    "popularity": 1876
+  },
+  {
+    "id": "riddle_882",
+    "question": "玻璃房，水银墙，不怕隔山又隔水，互相说话听得清。",
+    "answer": "电话",
+    "category": "物品",
+    "popularity": 1765
+  },
+  {
+    "id": "riddle_883",
+    "question": "小房子里，住满弟弟，擦破头皮，立刻火起。",
+    "answer": "火柴",
+    "category": "物品",
+    "popularity": 1654
+  },
+  {
+    "id": "riddle_884",
+    "question": "远看白光光，近看玻璃样，越冷越结实，一热水汪汪。",
+    "answer": "冰",
+    "category": "物品",
+    "popularity": 1543
+  },
+  {
+    "id": "riddle_885",
+    "question": "有硬有软，有长有宽，白天空闲，夜晚上班。",
+    "answer": "床",
+    "category": "物品",
+    "popularity": 1432
+  },
+  {
+    "id": "riddle_886",
+    "question": "钢铁身子重万斤，搁在水里它不沉，不怕风浪大，就怕水不深。",
+    "answer": "船",
+    "category": "物品",
+    "popularity": 1321
+  },
+  {
+    "id": "riddle_887",
+    "question": "守门员。",
+    "answer": "闪",
+    "category": "字谜",
+    "popularity": 1210
+  },
+  {
+    "id": "riddle_888",
+    "question": "一口吃掉牛尾巴。",
+    "answer": "告",
+    "category": "字谜",
+    "popularity": 1109
+  },
+  {
+    "id": "riddle_889",
+    "question": "七人头上长了草。",
+    "answer": "花",
+    "category": "字谜",
+    "popularity": 1098
+  },
+  {
+    "id": "riddle_890",
+    "question": "七十二小时。",
+    "answer": "晶",
+    "category": "字谜",
+    "popularity": 9876
+  },
+  {
+    "id": "riddle_891",
+    "question": "皇帝的衣服。",
+    "answer": "袭",
+    "category": "字谜",
+    "popularity": 9765
+  },
+  {
+    "id": "riddle_892",
+    "question": "空心苗，叶儿长，挺直腰杆一两丈，老时头发白苍苍，光长穗子不打粮。",
+    "answer": "芦苇",
+    "category": "植物",
+    "popularity": 9654
+  },
+  {
+    "id": "riddle_893",
+    "question": "小时青青像水草，老来黄黄结珠宝，珠宝脱下金黄衣，粒粒珍珠能食疗。",
+    "answer": "稻谷",
+    "category": "植物",
+    "popularity": 9543
+  },
+  {
+    "id": "riddle_894",
+    "question": "有个矮将军，身上挂满刀，刀鞘外长毛，里面藏宝宝。",
+    "answer": "大豆",
+    "category": "植物",
+    "popularity": 9432
+  },
+  {
+    "id": "riddle_895",
+    "question": "身材瘦瘦个儿高，叶儿细细披绿袍，别看样子像青蒿，香气扑鼻味儿好。",
+    "answer": "芹菜",
+    "category": "植物",
+    "popularity": 9321
+  },
+  {
+    "id": "riddle_896",
+    "question": "不长汁来不生杈，叶子顶上开白花，脑袋睡在地底下，胡子长了一大把。",
+    "answer": "葱",
+    "category": "植物",
+    "popularity": 9210
+  },
+  {
+    "id": "riddle_897",
+    "question": "有红有绿不是花，有枝有叶不是树，五颜六色居水中，原是海底一动物。",
+    "answer": "珊瑚",
+    "category": "自然",
+    "popularity": 9109
+  },
+  {
+    "id": "riddle_898",
+    "question": "小珍珠，真可爱，只能看，不能踩，清晨长在绿草丛，太阳一出无影踪。",
+    "answer": "露珠",
+    "category": "自然",
+    "popularity": 9098
+  },
+  {
+    "id": "riddle_899",
+    "question": "解落三秋叶，能开二月花，过江千尺浪，入竹万竿斜。",
+    "answer": "风",
+    "category": "自然",
+    "popularity": 8987
+  },
+  {
+    "id": "riddle_900",
+    "question": "银线根根长又细，上接天来下着地，线长不能放风筝，线细不能织布匹。",
+    "answer": "雨",
+    "category": "自然",
+    "popularity": 8876
+  },
+  {
+    "id": "riddle_901",
+    "question": "不用泥土栽，不用日头晒，不用水来浇，能在桌上开。",
+    "answer": "塑料花",
+    "category": "自然",
+    "popularity": 8765
+  },
+  {
+    "id": "riddle_902",
+    "question": "什么照片看不出照的是谁？",
+    "answer": "X光片",
+    "category": "脑筋急转弯",
+    "popularity": 8654
+  },
+  {
+    "id": "riddle_903",
+    "question": "什么瓜不能吃？",
+    "answer": "傻瓜",
+    "category": "脑筋急转弯",
+    "popularity": 8543
+  },
+  {
+    "id": "riddle_904",
+    "question": "什么酒不能喝？",
+    "answer": "碘酒",
+    "category": "脑筋急转弯",
+    "popularity": 8432
+  },
+  {
+    "id": "riddle_905",
+    "question": "什么蛋打不烂，煮不熟，更不能吃？",
+    "answer": "考试得的零蛋",
+    "category": "脑筋急转弯",
+    "popularity": 8321
+  },
+  {
+    "id": "riddle_906",
+    "question": "火车由北京到上海需要6小时，行使3小时后，火车该在什么地方？",
+    "answer": "在车轨上",
+    "category": "脑筋急转弯",
+    "popularity": 8210
+  },
+  {
+    "id": "riddle_907",
+    "question": "头像绵羊颈似鹅，不是牛马不是骡，戈壁滩上万里行，能耐渴来能忍饿。",
+    "answer": "骆驼",
+    "category": "动物",
+    "popularity": 8109
+  },
+  {
+    "id": "riddle_908",
+    "question": "兄弟五个人，各进各的门，若是走错了，出来笑死人。",
+    "answer": "手套",
+    "category": "物品",
+    "popularity": 8098
+  },
+  {
+    "id": "riddle_909",
+    "question": "有位小姑娘，身穿黄衣裳，你要欺侮它，它就扎一枪。",
+    "answer": "黄蜂",
+    "category": "物品",
+    "popularity": 7987
+  },
+  {
+    "id": "riddle_910",
+    "question": "一个南瓜两头儿空，肚里开花放光明，有瓜没叶儿高高挂，照得面前一片红。",
+    "answer": "灯笼",
+    "category": "物品",
+    "popularity": 7876
+  },
+  {
+    "id": "riddle_911",
+    "question": "四四方方一座城，城里住满红头兵，红头撞在黑墙上，一触即发放光明。",
+    "answer": "火柴",
+    "category": "物品",
+    "popularity": 7765
+  },
+  {
+    "id": "riddle_912",
+    "question": "小黑人儿细又长，穿着木头花衣裳，画画写字它全会，就是不会把歌唱。",
+    "answer": "铅笔",
+    "category": "物品",
+    "popularity": 7654
+  },
+  {
+    "id": "riddle_913",
+    "question": "一月七日。",
+    "answer": "脂",
+    "category": "字谜",
+    "popularity": 7543
+  },
+  {
+    "id": "riddle_914",
+    "question": "一加一。",
+    "answer": "王",
+    "category": "字谜",
+    "popularity": 7432
+  },
+  {
+    "id": "riddle_915",
+    "question": "一字十三点，难在如何点。",
+    "answer": "汁",
+    "category": "字谜",
+    "popularity": 7321
+  },
+  {
+    "id": "riddle_916",
+    "question": "一百减一。",
+    "answer": "白",
+    "category": "字谜",
+    "popularity": 7210
+  },
+  {
+    "id": "riddle_917",
+    "question": "一口咬定。",
+    "answer": "交",
+    "category": "字谜",
+    "popularity": 7109
+  },
+  {
+    "id": "riddle_918",
+    "question": "千根线来万根线，颗颗珍珠线上穿，看得见来摸得着，掉在地上却不见。",
+    "answer": "雨",
+    "category": "自然",
+    "popularity": 7098
+  },
+  {
+    "id": "riddle_919",
+    "question": "白门楼，红围墙，里面住个红姑娘，酸甜苦辣她都尝。",
+    "answer": "舌头",
+    "category": "自然",
+    "popularity": 6987
+  },
+  {
+    "id": "riddle_920",
+    "question": "上边毛，下边毛，中间一个黑葡萄。",
+    "answer": "眼睛",
+    "category": "自然",
+    "popularity": 6876
+  },
+  {
+    "id": "riddle_921",
+    "question": "一物生得巧，地位比人高，戴上御风寒，脱下有礼貌。",
+    "answer": "帽子",
+    "category": "自然",
+    "popularity": 6765
+  },
+  {
+    "id": "riddle_922",
+    "question": "五个兄弟，生在一起，有骨有肉，长短不齐。",
+    "answer": "手",
+    "category": "自然",
+    "popularity": 6654
+  },
+  {
+    "id": "riddle_923",
+    "question": "什么路最窄？",
+    "answer": "冤家路窄",
+    "category": "脑筋急转弯",
+    "popularity": 6543
+  },
+  {
+    "id": "riddle_924",
+    "question": "什么书在书店买不到？",
+    "answer": "秘书",
+    "category": "脑筋急转弯",
+    "popularity": 6432
+  },
+  {
+    "id": "riddle_925",
+    "question": "什么东西嘴里没有舌头？",
+    "answer": "茶壶嘴",
+    "category": "脑筋急转弯",
+    "popularity": 6321
+  },
+  {
+    "id": "riddle_926",
+    "question": "什么东西有五个头，但人不觉得它怪呢？",
+    "answer": "手，脚",
+    "category": "脑筋急转弯",
+    "popularity": 6210
+  },
+  {
+    "id": "riddle_927",
+    "question": "什么布剪不断？",
+    "answer": "瀑布",
+    "category": "脑筋急转弯",
+    "popularity": 6109
+  },
+  {
+    "id": "riddle_928",
+    "question": "像猫不是猫，夜里捉老鼠，白天睡大觉，嗅觉特别好。",
+    "answer": "猫头鹰",
+    "category": "动物",
+    "popularity": 6098
+  },
+  {
+    "id": "riddle_929",
+    "question": "嘴长耳朵长，一条小尾巴，贪吃不劳动，吃饱就睡下。",
+    "answer": "猪",
+    "category": "动物",
+    "popularity": 5987
+  },
+  {
+    "id": "riddle_930",
+    "question": "身穿黑白花皮衣，模样憨实人人喜，爱吃青青嫩竹笋，竹鼠视它为天敌。",
+    "answer": "熊猫",
+    "category": "动物",
+    "popularity": 5876
+  },
+  {
+    "id": "riddle_931",
+    "question": "一位游泳家，说话呱呱呱，小时有尾没有脚，大时有脚没尾巴。",
+    "answer": "青蛙",
+    "category": "动物",
+    "popularity": 5765
+  },
+  {
+    "id": "riddle_932",
+    "question": "小时着黑衣，大时穿绿袍，水里过日子，岸上来睡觉。",
+    "answer": "青蛙",
+    "category": "动物",
+    "popularity": 5654
+  },
+  {
+    "id": "riddle_933",
+    "question": "玻璃房，水银墙，不怕隔山又隔水，互相说话听得清。",
+    "answer": "电话",
+    "category": "物品",
+    "popularity": 5543
+  },
+  {
+    "id": "riddle_934",
+    "question": "小房子里，住满弟弟，擦破头皮，立刻火起。",
+    "answer": "火柴",
+    "category": "物品",
+    "popularity": 5432
+  },
+  {
+    "id": "riddle_935",
+    "question": "远看白光光，近看玻璃样，越冷越结实，一热水汪汪。",
+    "answer": "冰",
+    "category": "物品",
+    "popularity": 5321
+  },
+  {
+    "id": "riddle_936",
+    "question": "有硬有软，有长有宽，白天空闲，夜晚上班。",
+    "answer": "床",
+    "category": "物品",
+    "popularity": 5210
+  },
+  {
+    "id": "riddle_937",
+    "question": "钢铁身子重万斤，搁在水里它不沉，不怕风浪大，就怕水不深。",
+    "answer": "船",
+    "category": "物品",
+    "popularity": 5109
+  },
+  {
+    "id": "riddle_938",
+    "question": "守门员。",
+    "answer": "闪",
+    "category": "字谜",
+    "popularity": 5098
+  },
+  {
+    "id": "riddle_939",
+    "question": "一口吃掉牛尾巴。",
+    "answer": "告",
+    "category": "字谜",
+    "popularity": 4987
+  },
+  {
+    "id": "riddle_940",
+    "question": "七人头上长了草。",
+    "answer": "花",
+    "category": "字谜",
+    "popularity": 4876
+  },
+  {
+    "id": "riddle_941",
+    "question": "七十二小时。",
+    "answer": "晶",
+    "category": "字谜",
+    "popularity": 4765
+  },
+  {
+    "id": "riddle_942",
+    "question": "皇帝的衣服。",
+    "answer": "袭",
+    "category": "字谜",
+    "popularity": 4654
+  },
+  {
+    "id": "riddle_943",
+    "question": "空心苗，叶儿长，挺直腰杆一两丈，老时头发白苍苍，光长穗子不打粮。",
+    "answer": "芦苇",
+    "category": "植物",
+    "popularity": 4543
+  },
+  {
+    "id": "riddle_944",
+    "question": "小时青青像水草，老来黄黄结珠宝，珠宝脱下金黄衣，粒粒珍珠能食疗。",
+    "answer": "稻谷",
+    "category": "植物",
+    "popularity": 4432
+  },
+  {
+    "id": "riddle_945",
+    "question": "有个矮将军，身上挂满刀，刀鞘外长毛，里面藏宝宝。",
+    "answer": "大豆",
+    "category": "植物",
+    "popularity": 4321
+  },
+  {
+    "id": "riddle_946",
+    "question": "身材瘦瘦个儿高，叶儿细细披绿袍，别看样子像青蒿，香气扑鼻味儿好。",
+    "answer": "芹菜",
+    "category": "植物",
+    "popularity": 4210
+  },
+  {
+    "id": "riddle_947",
+    "question": "不长汁来不生杈，叶子顶上开白花，脑袋睡在地底下，胡子长了一大把。",
+    "answer": "葱",
+    "category": "植物",
+    "popularity": 4109
+  },
+  {
+    "id": "riddle_948",
+    "question": "有红有绿不是花，有枝有叶不是树，五颜六色居水中，原是海底一动物。",
+    "answer": "珊瑚",
+    "category": "自然",
+    "popularity": 4098
+  },
+  {
+    "id": "riddle_949",
+    "question": "小珍珠，真可爱，只能看，不能踩，清晨长在绿草丛，太阳一出无影踪。",
+    "answer": "露珠",
+    "category": "自然",
+    "popularity": 3987
+  },
+  {
+    "id": "riddle_950",
+    "question": "解落三秋叶，能开二月花，过江千尺浪，入竹万竿斜。",
+    "answer": "风",
+    "category": "自然",
+    "popularity": 3876
+  },
+  {
+    "id": "riddle_951",
+    "question": "银线根根长又细，上接天来下着地，线长不能放风筝，线细不能织布匹。",
+    "answer": "雨",
+    "category": "自然",
+    "popularity": 3765
+  },
+  {
+    "id": "riddle_952",
+    "question": "不用泥土栽，不用日头晒，不用水来浇，能在桌上开。",
+    "answer": "塑料花",
+    "category": "自然",
+    "popularity": 3654
+  },
+  {
+    "id": "riddle_953",
+    "question": "什么照片看不出照的是谁？",
+    "answer": "X光片",
+    "category": "脑筋急转弯",
+    "popularity": 3543
+  },
+  {
+    "id": "riddle_954",
+    "question": "什么瓜不能吃？",
+    "answer": "傻瓜",
+    "category": "脑筋急转弯",
+    "popularity": 3432
+  },
+  {
+    "id": "riddle_955",
+    "question": "什么酒不能喝？",
+    "answer": "碘酒",
+    "category": "脑筋急转弯",
+    "popularity": 3321
+  },
+  {
+    "id": "riddle_956",
+    "question": "什么蛋打不烂，煮不熟，更不能吃？",
+    "answer": "考试得的零蛋",
+    "category": "脑筋急转弯",
+    "popularity": 3210
+  },
+  {
+    "id": "riddle_957",
+    "question": "火车由北京到上海需要6小时，行使3小时后，火车该在什么地方？",
+    "answer": "在车轨上",
+    "category": "脑筋急转弯",
+    "popularity": 3109
+  },
+  {
+    "id": "riddle_958",
+    "question": "头像绵羊颈似鹅，不是牛马不是骡，戈壁滩上万里行，能耐渴来能忍饿。",
+    "answer": "骆驼",
+    "category": "动物",
+    "popularity": 3098
+  },
+  {
+    "id": "riddle_959",
+    "question": "兄弟五个人，各进各的门，若是走错了，出来笑死人。",
+    "answer": "手套",
+    "category": "物品",
+    "popularity": 2987
+  },
+  {
+    "id": "riddle_960",
+    "question": "有位小姑娘，身穿黄衣裳，你要欺侮它，它就扎一枪。",
+    "answer": "黄蜂",
+    "category": "物品",
+    "popularity": 2876
+  },
+  {
+    "id": "riddle_961",
+    "question": "一个南瓜两头儿空，肚里开花放光明，有瓜没叶儿高高挂，照得面前一片红。",
+    "answer": "灯笼",
+    "category": "物品",
+    "popularity": 2765
+  },
+  {
+    "id": "riddle_962",
+    "question": "四四方方一座城，城里住满红头兵，红头撞在黑墙上，一触即发放光明。",
+    "answer": "火柴",
+    "category": "物品",
+    "popularity": 2654
+  },
+  {
+    "id": "riddle_963",
+    "question": "小黑人儿细又长，穿着木头花衣裳，画画写字它全会，就是不会把歌唱。",
+    "answer": "铅笔",
+    "category": "物品",
+    "popularity": 2543
+  },
+  {
+    "id": "riddle_964",
+    "question": "一月七日。",
+    "answer": "脂",
+    "category": "字谜",
+    "popularity": 2432
+  },
+  {
+    "id": "riddle_965",
+    "question": "一加一。",
+    "answer": "王",
+    "category": "字谜",
+    "popularity": 2321
+  },
+  {
+    "id": "riddle_966",
+    "question": "一字十三点，难在如何点。",
+    "answer": "汁",
+    "category": "字谜",
+    "popularity": 2210
+  },
+  {
+    "id": "riddle_967",
+    "question": "一百减一。",
+    "answer": "白",
+    "category": "字谜",
+    "popularity": 2109
+  },
+  {
+    "id": "riddle_968",
+    "question": "一口咬定。",
+    "answer": "交",
+    "category": "字谜",
+    "popularity": 2098
+  },
+  {
+    "id": "riddle_969",
+    "question": "千根线来万根线，颗颗珍珠线上穿，看得见来摸得着，掉在地上却不见。",
+    "answer": "雨",
+    "category": "自然",
+    "popularity": 1987
+  },
+  {
+    "id": "riddle_970",
+    "question": "白门楼，红围墙，里面住个红姑娘，酸甜苦辣她都尝。",
+    "answer": "舌头",
+    "category": "自然",
+    "popularity": 1876
+  },
+  {
+    "id": "riddle_971",
+    "question": "上边毛，下边毛，中间一个黑葡萄。",
+    "answer": "眼睛",
+    "category": "自然",
+    "popularity": 1765
+  },
+  {
+    "id": "riddle_972",
+    "question": "一物生得巧，地位比人高，戴上御风寒，脱下有礼貌。",
+    "answer": "帽子",
+    "category": "自然",
+    "popularity": 1654
+  },
+  {
+    "id": "riddle_973",
+    "question": "五个兄弟，生在一起，有骨有肉，长短不齐。",
+    "answer": "手",
+    "category": "自然",
+    "popularity": 1543
+  },
+  {
+    "id": "riddle_974",
+    "question": "什么路最窄？",
+    "answer": "冤家路窄",
+    "category": "脑筋急转弯",
+    "popularity": 1432
+  },
+  {
+    "id": "riddle_975",
+    "question": "什么书在书店买不到？",
+    "answer": "秘书",
+    "category": "脑筋急转弯",
+    "popularity": 1321
+  },
+  {
+    "id": "riddle_976",
+    "question": "什么东西嘴里没有舌头？",
+    "answer": "茶壶嘴",
+    "category": "脑筋急转弯",
+    "popularity": 1210
+  },
+  {
+    "id": "riddle_977",
+    "question": "什么东西有五个头，但人不觉得它怪呢？",
+    "answer": "手，脚",
+    "category": "脑筋急转弯",
+    "popularity": 1109
+  },
+  {
+    "id": "riddle_978",
+    "question": "什么布剪不断？",
+    "answer": "瀑布",
+    "category": "脑筋急转弯",
+    "popularity": 1098
+  },
+  {
+    "id": "riddle_979",
+    "question": "像猫不是猫，夜里捉老鼠，白天睡大觉，嗅觉特别好。",
+    "answer": "猫头鹰",
+    "category": "动物",
+    "popularity": 9876
+  },
+  {
+    "id": "riddle_980",
+    "question": "嘴长耳朵长，一条小尾巴，贪吃不劳动，吃饱就睡下。",
+    "answer": "猪",
+    "category": "动物",
+    "popularity": 9765
+  },
+  {
+    "id": "riddle_981",
+    "question": "身穿黑白花皮衣，模样憨实人人喜，爱吃青青嫩竹笋，竹鼠视它为天敌。",
+    "answer": "熊猫",
+    "category": "动物",
+    "popularity": 9654
+  },
+  {
+    "id": "riddle_982",
+    "question": "一位游泳家，说话呱呱呱，小时有尾没有脚，大时有脚没尾巴。",
+    "answer": "青蛙",
+    "category": "动物",
+    "popularity": 9543
+  },
+  {
+    "id": "riddle_983",
+    "question": "小时着黑衣，大时穿绿袍，水里过日子，岸上来睡觉。",
+    "answer": "青蛙",
+    "category": "动物",
+    "popularity": 9432
+  },
+  {
+    "id": "riddle_984",
+    "question": "玻璃房，水银墙，不怕隔山又隔水，互相说话听得清。",
+    "answer": "电话",
+    "category": "物品",
+    "popularity": 9321
+  },
+  {
+    "id": "riddle_985",
+    "question": "小房子里，住满弟弟，擦破头皮，立刻火起。",
+    "answer": "火柴",
+    "category": "物品",
+    "popularity": 9210
+  },
+  {
+    "id": "riddle_986",
+    "question": "远看白光光，近看玻璃样，越冷越结实，一热水汪汪。",
+    "answer": "冰",
+    "category": "物品",
+    "popularity": 9109
+  },
+  {
+    "id": "riddle_987",
+    "question": "有硬有软，有长有宽，白天空闲，夜晚上班。",
+    "answer": "床",
+    "category": "物品",
+    "popularity": 9098
+  },
+  {
+    "id": "riddle_988",
+    "question": "钢铁身子重万斤，搁在水里它不沉，不怕风浪大，就怕水不深。",
+    "answer": "船",
+    "category": "物品",
+    "popularity": 8987
+  },
+  {
+    "id": "riddle_989",
+    "question": "守门员。",
+    "answer": "闪",
+    "category": "字谜",
+    "popularity": 8876
+  },
+  {
+    "id": "riddle_990",
+    "question": "一口吃掉牛尾巴。",
+    "answer": "告",
+    "category": "字谜",
+    "popularity": 8765
+  },
+  {
+    "id": "riddle_991",
+    "question": "七人头上长了草。",
+    "answer": "花",
+    "category": "字谜",
+    "popularity": 8654
+  },
+  {
+    "id": "riddle_992",
+    "question": "七十二小时。",
+    "answer": "晶",
+    "category": "字谜",
+    "popularity": 8543
+  },
+  {
+    "id": "riddle_993",
+    "question": "皇帝的衣服。",
+    "answer": "袭",
+    "category": "字谜",
+    "popularity": 8432
+  },
+  {
+    "id": "riddle_994",
+    "question": "空心苗，叶儿长，挺直腰杆一两丈，老时头发白苍苍，光长穗子不打粮。",
+    "answer": "芦苇",
+    "category": "植物",
+    "popularity": 8321
+  },
+  {
+    "id": "riddle_995",
+    "question": "小时青青像水草，老来黄黄结珠宝，珠宝脱下金黄衣，粒粒珍珠能食疗。",
+    "answer": "稻谷",
+    "category": "植物",
+    "popularity": 8210
+  },
+  {
+    "id": "riddle_996",
+    "question": "有个矮将军，身上挂满刀，刀鞘外长毛，里面藏宝宝。",
+    "answer": "大豆",
+    "category": "植物",
+    "popularity": 8109
+  },
+  {
+    "id": "riddle_997",
+    "question": "身材瘦瘦个儿高，叶儿细细披绿袍，别看样子像青蒿，香气扑鼻味儿好。",
+    "answer": "芹菜",
+    "category": "植物",
+    "popularity": 8098
+  },
+  {
+    "id": "riddle_998",
+    "question": "不长汁来不生杈，叶子顶上开白花，脑袋睡在地底下，胡子长了一大把。",
+    "answer": "葱",
+    "category": "植物",
+    "popularity": 7987
+  },
+  {
+    "id": "riddle_999",
+    "question": "有红有绿不是花，有枝有叶不是树，五颜六色居水中，原是海底一动物。",
+    "answer": "珊瑚",
+    "category": "自然",
+    "popularity": 7876
+  },
+  {
+    "id": "riddle_1000",
+    "question": "小珍珠，真可爱，只能看，不能踩，清晨长在绿草丛，太阳一出无影踪。",
+    "answer": "露珠",
+    "category": "自然",
+    "popularity": 7765
+  }
+]
