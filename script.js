@@ -1972,8 +1972,12 @@ async function checkUrlParams() {
     const urlParams = new URLSearchParams(window.location.search);
     const encodedCategory = urlParams.get('category');
     
+    // 检查是否在分类页面，支持带.html和不带.html后缀的情况
+    const pathname = window.location.pathname;
+    const isCategoryPage = pathname.includes('categories.html') || pathname.endsWith('/categories') || pathname === '/categories';
+    
     // 只有在分类页面才处理分类参数和加载默认分类
-    if (window.location.pathname.includes('categories.html')) {
+    if (isCategoryPage) {
         if (encodedCategory) {
             try {
                 // 解码URL编码的分类参数
@@ -2008,7 +2012,11 @@ async function checkUrlParams() {
 // 页面加载完成后初始化
 document.addEventListener('DOMContentLoaded', async () => {
     try {
-        if (window.location.pathname.includes('categories.html')) {
+        // 支持带.html和不带.html后缀的分类页面路径
+        const pathname = window.location.pathname;
+        const isCategoryPage = pathname.includes('categories.html') || pathname.endsWith('/categories') || pathname === '/categories';
+        
+        if (isCategoryPage) {
             await initCategoryPage();
         } else {
             await initPage();
